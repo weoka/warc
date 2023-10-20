@@ -5,3 +5,4 @@
 !.gitignore
 !calculateAverageResponseTime.js
 !package.json
+!README.md
