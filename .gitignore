@@ -1,0 +1,7 @@
+# Ignore everything:
+*
+
+# Do not ignore these files:
+!.gitignore
+!calculateAverageResponseTime.js
+!package.json
